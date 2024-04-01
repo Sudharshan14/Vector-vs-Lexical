@@ -32,7 +32,7 @@ To use this script, follow these steps:
 2. Execute the script by running the `VectorVsLexical.ipynb` function.
 3. The script loads the Brown corpus, computes TF-IDF similarity, trains a Word2Vec model, and loads the SimLex-999 dataset for evaluation.
 4. It performs transitivity analysis on the dataset.
-5. The TF-IDF method is evaluated, and the results are saved as a JSON file and a graph.
+5. The TF-IDF method is evaluated, and the results are saved in output folder.
 
 ## Functions Overview
 
