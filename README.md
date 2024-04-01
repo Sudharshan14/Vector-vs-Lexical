@@ -22,8 +22,7 @@ pip install -r requirements.txt
 Additionally, NLTK resources such as the Brown corpus and tokenization models are required. You can download them by executing:
 ```python
 import nltk 
-nltk.download('brown') 
-nltk.download('punkt')
+nltk.download('brown')
 ```
 ## Usage
 
