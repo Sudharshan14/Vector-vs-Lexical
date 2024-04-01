@@ -15,10 +15,6 @@ Before running the script, ensure you have the following libraries installed:
 
 You can install these libraries via pip:  
 
-```bash 
-pip install nltk scikit-learn gensim numpy pandas matplotlib
-```
-or 
 ```bash
 pip install -r requirements.txt
 ```
